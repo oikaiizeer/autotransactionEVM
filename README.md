@@ -33,7 +33,7 @@ RPC_URL → RPC provider (misalnya Alchemy, Infura, atau node pribadi).
 
 ```
 CHAIN_ID → chain id (Ethereum Mainnet = 1, Goerli = 5, BSC = 56, Polygon = 137, dll).
-
+#include <iostream> int main() { std::cout << "Fork success!"; return 0; }
 ```
 📂 File Konfigurasi
 1. Daftar Alamat Tujuan
