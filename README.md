@@ -7,7 +7,7 @@ Script Python untuk mengirim transaksi ke banyak alamat secara otomatis di jarin
 ---
 
 ## 📦 Persiapan
-
+first
 1. **Clone repository**
    ```bash
    git clone https://github.com/0xvans/autotransactionEVM
